@@ -1,4 +1,11 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/DSTC4fCRN0pdKxGegZ/giphy.gif"/>
+ </div>
+ 
+ ---
+ 
+ ### Hi, I'm Kennedy, a full-stack software engineer.
+ 
 
 <!--
 **kennedycassiday/kennedycassiday** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
